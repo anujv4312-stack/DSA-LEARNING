@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -38,4 +40,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->

@@ -41,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0503-next-greater-element-ii) |
+## Math
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1922-count-good-numbers) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->

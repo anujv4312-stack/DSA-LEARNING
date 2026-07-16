@@ -27,7 +27,7 @@ public:
             i++;
         }
         ans = ans.substr(i);
-        if(ans.empty()){
+        if(ans.size()==0){
             return "0";
         }
              return ans;

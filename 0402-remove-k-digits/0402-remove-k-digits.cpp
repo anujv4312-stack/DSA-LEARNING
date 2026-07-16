@@ -9,7 +9,7 @@ public:
         }
         st.push(num[i]);
        } 
-        while(k>0){
+        while(k>0&&st.empty()!=true){
         st.pop();
         k--;
         }

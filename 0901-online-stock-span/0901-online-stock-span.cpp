@@ -1,0 +1,25 @@
+class StockSpanner {
+public:
+    stack<pair<int,int>> st;
+    StockSpanner() {
+        
+    }
+    
+    int next(int price) {
+       vector<int> ans;
+       int span = 1;
+       while(!st.empty() && price>=st.top().first){
+        span = span+st.top().second;
+        st.pop();
+        
+       }
+       st.push({price,span});
+      return span; // we are returning one span at a time because leetcode calls one at a time
+    }
+};
+
+/**
+ * Your StockSpanner object will be instantiated and called as such:
+ * StockSpanner* obj = new StockSpanner();
+ * int param_1 = obj->next(price);
+ */

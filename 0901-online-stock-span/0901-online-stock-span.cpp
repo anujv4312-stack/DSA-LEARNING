@@ -6,7 +6,7 @@ public:
     }
     
     int next(int price) {
-       vector<int> ans;
+
        int span = 1;
        while(!st.empty() && price>=st.top().first){
         span = span+st.top().second;

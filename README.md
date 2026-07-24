@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0496-next-greater-element-i) |
 ## Stack
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |

@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0085-maximal-rectangle) |
+| [0136-single-number](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0485-max-consecutive-ones) |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0146-lru-cache) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

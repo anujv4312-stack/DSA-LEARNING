@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0136-single-number) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

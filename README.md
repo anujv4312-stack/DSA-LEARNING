@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0424-longest-repeating-character-replacement) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
 |  |

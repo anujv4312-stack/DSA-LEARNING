@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0035-search-insert-position) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0035-search-insert-position) |
 | [0410-split-array-largest-sum](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0992-subarrays-with-k-different-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->

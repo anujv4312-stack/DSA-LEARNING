@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0239-sliding-window-maximum) |
+| [0410-split-array-largest-sum](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0503-next-greater-element-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0085-maximal-rectangle) |
+| [0410-split-array-largest-sum](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0410-split-array-largest-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0410-split-array-largest-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0410-split-array-largest-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0035-search-insert-position) |
+| [0410-split-array-largest-sum](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Sorting

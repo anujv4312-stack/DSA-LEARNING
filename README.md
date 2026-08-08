@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0410-split-array-largest-sum) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |

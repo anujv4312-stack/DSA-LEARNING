@@ -6,8 +6,9 @@ public:
             pq.push(nums[i]);
         }
         while(k!=1){
-            pq.pop();
             k--;
+            pq.pop();
+        
         }
         return pq.top();
     }

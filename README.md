@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0907-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1021-remove-outermost-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0424-longest-repeating-character-replacement) |
+| [1021-remove-outermost-parentheses](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Monotonic Stack
 |  |
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0703-kth-largest-element-in-a-stream) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->

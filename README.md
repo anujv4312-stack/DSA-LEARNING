@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0496-next-greater-element-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0904-fruit-into-baskets) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Monotonic Queue
 |  |
@@ -228,10 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1331-rank-transform-of-an-array) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0992-subarrays-with-k-different-integers) |
 ## Divide and Conquer
 |  |
@@ -239,10 +244,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -259,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1021-remove-outermost-parentheses) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

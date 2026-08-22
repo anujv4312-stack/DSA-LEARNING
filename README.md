@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0907-sum-of-subarray-minimums) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
 |  |

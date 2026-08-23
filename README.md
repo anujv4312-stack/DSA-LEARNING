@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0907-sum-of-subarray-minimums) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1903-largest-odd-number-in-string) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
@@ -278,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1021-remove-outermost-parentheses) |
 ## Bucket Sort
 |  |

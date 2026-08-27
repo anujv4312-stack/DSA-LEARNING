@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0075-sort-colors) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0410-split-array-largest-sum) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0410-split-array-largest-sum) |

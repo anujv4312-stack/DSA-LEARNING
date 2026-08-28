@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0455-assign-cookies) |
+| [0876-middle-of-the-linked-list](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0876-middle-of-the-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |

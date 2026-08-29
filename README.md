@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1922-count-good-numbers) |
 ## Recursion

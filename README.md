@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0455-assign-cookies) |
 ## Floyd's Cycle Finding Algorithm
 |  |

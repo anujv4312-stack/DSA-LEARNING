@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0234-palindrome-linked-list) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0237-delete-node-in-a-linked-list) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0347-top-k-frequent-elements) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0347-top-k-frequent-elements) |
@@ -348,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0102-binary-tree-level-order-traversal) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->

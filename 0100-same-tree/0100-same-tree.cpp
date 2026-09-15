@@ -13,7 +13,7 @@ class Solution {
 public:
     void solve(TreeNode* p, vector<int> &arr){
         if(p == nullptr){
-            arr.push_back(999);
+            arr.push_back(101);
             return;
         }
         arr.push_back(p->val);

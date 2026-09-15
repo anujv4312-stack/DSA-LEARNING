@@ -11,26 +11,14 @@
  */
 class Solution {
 public:
-    void solve(TreeNode* p, vector<int> &arr){
-        if(p == nullptr){
-            arr.push_back(101);
-            return;
-        }
-        arr.push_back(p->val);
-        solve(p->left,arr);
-        solve(p->right,arr);
-    }
     bool isSameTree(TreeNode* p, TreeNode* q) {
-        vector<int> arr;
-        vector<int> arr2;
-        solve(p,arr);
-        solve(q,arr2);
-        if(arr.size()!=arr2.size()) return false;
-        for(int i = 0;i<arr.size();i++){
-            if(arr[i]!=arr2[i]){
-                return false;
-            }
+        if(p == nullptr || q == nullptr){
+            return p==q;
         }
-        return true;
+
+        bool left = isSameTree(p->left,q->left);
+        bool right = isSameTree(p->right,q->right);
+
+        return left && right && p->val == q->val;
     }
 };

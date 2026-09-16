@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1922-count-good-numbers) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0146-lru-cache) |

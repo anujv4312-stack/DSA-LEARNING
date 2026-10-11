@@ -45,7 +45,8 @@ public:
         while(q.empty()!=true){
             TreeNode* noode = q.front();
             q.pop();
-            if(!getline(s, str, ',')) break;
+            (getline(s, str, ','));
+            if(s.fail() == true) break;
             if(str == "#"){
              noode->left = nullptr;   
             }
@@ -54,7 +55,8 @@ public:
                 noode->left = nood;
                 q.push(nood);
             }
-            if(!getline(s, str, ',')) break;
+            getline(s, str, ',');
+            if(s.fail()) break;
             if(str == "#"){
              noode->right = nullptr;   
             }

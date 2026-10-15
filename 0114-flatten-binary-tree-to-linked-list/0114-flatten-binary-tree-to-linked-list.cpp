@@ -11,18 +11,25 @@
  */
 class Solution {
 public:
-    TreeNode* prev = nullptr;
     void flatten(TreeNode* root) {
-      if(root == nullptr){
-        return;
-      }  
-      flatten(root->right);
-      flatten(root->left);
-
-      root->right = prev;
-      root->left = nullptr;
-
-      prev = root;
-
+        if(root == nullptr){
+    return;
+}
+        stack<TreeNode*> st;
+        st.push(root);
+        while(st.empty()!= true){
+          TreeNode* node = st.top();
+          st.pop();
+          if(node->right!=nullptr){
+            st.push(node->right);
+          }
+          if(node->left!=nullptr){
+            st.push(node->left);
+          }
+          if(st.empty()!=true){
+            node->right = st.top();
+            node->left = nullptr;
+          }
+        }
     }
 };

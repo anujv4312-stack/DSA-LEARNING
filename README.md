@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1903-largest-odd-number-in-string) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1922-count-good-numbers) |
 ## Two Pointers
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0231-power-of-two) |
 ## Prefix Sum
 |  |
 | ------- |

@@ -12,7 +12,7 @@
 class Solution {
 public:
     void solve(TreeNode* root, vector<int> &ans,int k){
-        if(root == nullptr || ans.size()>k){
+        if(root == nullptr || ans.size()==k){
             return;
         }
         solve(root->left,ans,k);

@@ -17,6 +17,9 @@ public:
         }
         solve(root->left,ans,k);
         ans.push_back(root->val);
+        if(ans.size()==k){
+            return;
+        }
         solve(root->right,ans,k);
     }
     int kthSmallest(TreeNode* root, int k) {

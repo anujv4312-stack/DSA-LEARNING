@@ -15,14 +15,13 @@ public:
         if(root == nullptr){
             return;
         }
-        ans.push_back(root->val);
         solve(root->left,ans);
+        ans.push_back(root->val);
         solve(root->right,ans);
     }
     int kthSmallest(TreeNode* root, int k) {
         vector<int> ans;
         solve(root,ans);
-        sort(ans.begin(),ans.end());
         return ans[k-1];
     }
 };

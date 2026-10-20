@@ -11,17 +11,17 @@
  */
 class Solution {
 public:
-    void solve(TreeNode* root, vector<int> &ans){
-        if(root == nullptr){
+    void solve(TreeNode* root, vector<int> &ans,int k){
+        if(root == nullptr || ans.size()>k){
             return;
         }
-        solve(root->left,ans);
+        solve(root->left,ans,k);
         ans.push_back(root->val);
-        solve(root->right,ans);
+        solve(root->right,ans,k);
     }
     int kthSmallest(TreeNode* root, int k) {
         vector<int> ans;
-        solve(root,ans);
+        solve(root,ans,k);
         return ans[k-1];
     }
 };

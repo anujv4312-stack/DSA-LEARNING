@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1021-remove-outermost-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/2104-sum-of-subarray-ranges) |
 ## Math
 |  |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -369,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -398,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |

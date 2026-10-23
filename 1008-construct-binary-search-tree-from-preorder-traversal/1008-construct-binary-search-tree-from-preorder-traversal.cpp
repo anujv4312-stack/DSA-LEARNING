@@ -11,36 +11,19 @@
  */
 class Solution {
 public:
-    void solve(TreeNode* root, int val) {
-        TreeNode* cur = root;
-        while(true){
-            if(cur->val < val){
-                if(cur->right == nullptr){
-                     TreeNode* node = new TreeNode(val);
-                   cur->right = node;
-                   break; 
-                }
-                else{
-                    cur = cur->right;
-                }
-            }
-            else{
-                if(cur->left == nullptr){
-                   TreeNode* node = new TreeNode(val);
-                   cur->left = node;
-                   break;  
-                }
-                else {
-                    cur = cur->left;
-                }
-            }
+    TreeNode* solve(vector<int>& preorder,int& i, long long ub){
+        if(i == preorder.size() || preorder[i]>ub){
+            return nullptr;
         }
+        TreeNode* root = new TreeNode(preorder[i]);
+        i++;
+        root->left = solve(preorder,i,root->val);
+        root->right = solve(preorder,i,ub);
+
+        return root;
     }
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        TreeNode* root = new TreeNode(preorder[0]);
-        for(int i = 1;i<preorder.size();i++){
-            solve(root,preorder[i]);
-        }
-        return root;
+        int i = 0;
+        return solve(preorder,i,LLONG_MAX);
     }
 };

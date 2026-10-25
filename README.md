@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1922-count-good-numbers) |
+| [2235-add-two-integers](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/2235-add-two-integers) |
 ## Recursion
 |  |
 | ------- |

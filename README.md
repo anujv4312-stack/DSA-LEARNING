@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1020-number-of-enclaves) |
 | [1901-find-a-peak-element-ii](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1901-find-a-peak-element-ii) |
 ## Sliding Window
 |  |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1020-number-of-enclaves) |
 ## Merge Sort
 |  |
 | ------- |
@@ -512,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/anujv4312-stack/DSA-LEARNING/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
